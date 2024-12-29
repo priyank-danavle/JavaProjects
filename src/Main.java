@@ -1,10 +1,5 @@
-package ATM;
+package src;
 
-import ATM.Authentication;
-import ATM.TransactionHistory;
-import ATM.Withdraw;
-import ATM.Deposit;
-import ATM.Transfer;
 import java.util.Scanner;
 
 public class Main {
